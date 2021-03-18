@@ -1,0 +1,95 @@
+
+        nav{
+            background-color: black;
+            color: white;
+            font-size: 25px;
+            padding:10px;
+            text-align:left;
+        }
+        .navi{
+            color: white;
+            padding: 50px;
+            font-family:sans-serif;
+            text-decoration: wavy;
+        }
+        footer{
+            background-color: black;
+            color: white;
+            font-size: 20px;
+            text-align: center;
+            padding: 1px 0 1px 0;
+        }
+        .about{
+            text-align: center;
+            font-size: 50px;
+            text-decoration: underline;
+        }
+        .para{
+            font-family:cursive;
+            color: darkblue;
+            font-size: 30px;
+            background-color: rgb(247, 238, 238);
+            padding: 30px;
+            border: 1px solid rgb(182, 178, 178);
+        }
+        .group{
+            text-align: center;
+            padding: 20px 0 20px 0;
+            background-color: whitesmoke;
+        }
+        .sign{
+            padding: 10px;
+        }
+        div{
+            background-color: skyblue;
+            width:60%;
+            height: 55%;
+            text-align: center;
+            padding: 10px 0 20px 0;
+            margin: 50px 400px 50px 340px;
+        }
+        .email, .pass{
+            text-align:justify;
+            padding-left: 140px;
+            font-size: 30px;
+        }
+        .heading{
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 40px;
+            text-decoration: underline;
+        }
+        .button{
+            background-color: rgb(37, 34, 34);
+            color: white;
+            padding: 10px 40px 10px 40px ;
+            font-size: 20px;
+            font-family: cursive;
+        }
+        input{
+            padding: 10px 340px 10px 20px;
+            background-color: rgb(56, 117, 230);
+            color: white;
+            font-size: 20px;
+        }
+        .navi:hover{
+            color: red;
+            text-decoration: underline;
+        }
+        .button:hover{
+            color:rgb(228, 225, 58);
+            font-weight: bold;
+        }
+        .logo{
+            width: 120px;
+            padding: 30px 270px 10px 30px;
+            
+        }
+        h1{
+            font-size: 100px;
+            text-align:justify;
+            color: rgb(19, 121, 121);
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            background-color: rgb(236, 232, 227);
+            text-decoration: underline 10px ;
+        }
+    
